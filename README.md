@@ -44,8 +44,7 @@ This repository contains an R-based statistical analysis of housing affordabilit
 | File | Description |
 |------|-------------|
 | `housing_affordability_modeling.R` | Full R script for data cleaning, plotting, and modeling |
-| `housing_affordability_analysis.Rmd` | R Markdown report version (for knitting HTML/PDF) |
-| `.gitignore` | Ignore RStudio/project cache and knitr output |
+| `Group Project.pdf` | summarizing data sources, variable definitions, research question, modeling approach (additive/log-response/interaction), diagnostics (residuals, QQ, VIF), results, and conclusions |
 | `README.md` | This file |
 
 > Note: The raw CSV file is **not included**. Please place your file in the root directory and ensure the name matches exactly.
